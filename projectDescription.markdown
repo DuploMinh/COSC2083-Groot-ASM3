@@ -150,7 +150,7 @@ We plan on building the puzzle mode where arranged gameplays are available for p
 
 At the end of the project, we have completed the documentation and presentation parts. We have also started to design simple features of the games where we were designing the Easy mode for the Gameplay. It was harder than our initial expectations. We had to do such massive research on the implementation, as well as designs for the AI where it’s able to make its moves. Furthermore, designing the puzzles and time-clocking was also time consuming since we needed to apply math and GUI design. Overall, we were able to partially achieve the small goals of the initial plans. If we were given another 12 weeks, we believe we would be able to bring this project to success.
 
-A more detail schedules will be discussed in the [Timeframe](https://duplominh.github.io/COSC2083-Groot-ASM3/projectDescription.html#timeframe) section. Please refer to this section for a more specific plan and explanation. 
+A more detail schedules will be discussed in the [Timeframe](projectDescription.html#timeframe) section. Please refer to this section for a more specific plan and explanation. 
 
 ## Roles
 
