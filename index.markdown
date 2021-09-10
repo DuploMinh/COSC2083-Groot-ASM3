@@ -4,3 +4,13 @@
 
 layout: home
 ---
+
+## COSC 2083: Introduction to Information Technology
+
+# ASSIGNMENT 3: OUR IT PROJECT
+
+By: Pham Dinh, Minh Vu, Long Nguyen, Phat Bui
+
+Group Name: The Groot
+
+

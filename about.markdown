@@ -1,18 +1,37 @@
 ---
-layout: page
-title: About
+layout: default
+title: Team Profie
 permalink: /about/
+navorder: 1
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Team Profile
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## 1. Team Name
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We have chosen the name for our group to be “The Groot”. The name was approved by all members. This name represents the symbol of friendship and family. It has a strong meaning to all people who have watched the movie “Avengers: End Game”.  
 
+## 2. Personal Information 
 
-[jekyll-organization]: https://github.com/jekyll
+|     Name/Student ID                    |     Personal Information                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Dinh Pham S3878568                 |     I graduated from a Canada college with a diploma in Biomedical Engineering. I came back to Vietnam and switched my major field   because I haven’t enjoyed working in my background field, as well as the   pandemic was overwhelming. Moreover, I have found myself enjoying computing   and game developing. Therefore, I would like to be working as a game   developer in the future.           In the past, I have learnt Python, database design, and some user-centered design for the applications. I would like to learn and strengthen my team collaboration skill set and make new friends from this   project.                                                                                                                                                                                                                     |
+|     Phat Bui S3914615                  |     This is my first year as well as my first semester in university. I usually just sit in front of my laptop either playing games or surfing YouTube. However, I do spend my time doing other activities like going out with friends or working out. I have no experience whatsoever about IT but I am very interested in IT and how people develop games. I’m very into gaming and it has helped me go through a lot of stuff, so my dream is to develop games and may be able to help others either through tough times or just distract them from the real world for a moment.                                                                                                                                                                                                                                                                |
+|     Nguyen Huynh Hai Long  S3877624    |     Being a first-year student in my second semester pursuing my studies in Electrical Engineering, I spend the majority of time on hobbies that are IT-related such as researching about the   development of modern technologies or practicing ways of building   personalized computers from customizable components. Aside from that, I also partake in other hobbies like playing badminton on the weekends and engaging in online entertainment.     Currently, I have very little IT experience as I only know some basic coding knowledge in C/C++ alongside only the general understanding of common computer parts and their function. I   would like to learn more about other types of coding languages (such as Java and Python) as well as improving my management skills and deepen my relationships with my team members.          |
+|     Vu Hoang Minh     s3903723         |     I finished high school in Sweden and due to the pandemic, I decided to continue my studies in Vietnam. This is my second semester at RMIT in the IT program. In my free time, I enjoyed reading, working out at the gym, playing video games, and working on my personal projects.  I am proficient in Python and Java and I can work with C#.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+
+## 3. Group Process
+
+For the last four weeks of the semester, our team worked well together. Everyone was communicating with respect and care to the others. Tasks and works were completed on time with good quality. There were some conflicts regarding some written documentation among team members. However, we managed to resolve the problem easily.
+
+In the future, we would like to have higher efficiency in team collaboration where in-person meetings are hosted instead of online meetings. It allows us to communicate faster and better. Online meetings are often interfered with Internet issues, disruption from families, strange noises, and other elements.
+
+## 4. Career Plans
+
+Dinh Pham: I want to be a game developer where I would work for companies that create the greatest games such as League of Legends, Genshin Impact, and so much more. To do that, I must build my strong foundation in programming, and expose myself to tools and technologies that are being used for the game development industry. 
+
+Phat Bui: My career goal is also to become a game developer, but I don’t really want to work for big game companies like Dinh since there are reports, articles about crunches and workplace harassment happening in their offices. Instead, working for a somewhat indie game studio I believe is the best option plus it’s best for beginners like me to work with small projects first. However, for me to work in the game industry even for a small game studio I must at least know some basic knowledge about the tools and programs used for game development, so that is my goal for now. 
+
+Minh Vu: Unlike some of the other guys in my group, my career goal is to become a machine learning engineer. Where I work may not matter but the most important thing is I am able to work with cutting edge technology in the field of Machine learning. To achieve this goal, I am learning the foundations of Machine Learning and AI and I will work on some personal project to test my knowledge and know what I needed to learn.
+
+Long Nguyen: In the distant future, I want to achieve my goal of being an IT consultant and working for well-known companies that have high influences in the IT world and 	would allow me to grow when working under them. To obtain this goal of mine, I would need to expand my knowledge in the operation of different computer systems, equip 	myself with the ability to troubleshoot hardware along with software and be able to develop good collaboration as well as organizational skills.
