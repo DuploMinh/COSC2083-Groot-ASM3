@@ -1,0 +1,16 @@
+---
+layout: default
+title: Skill and Jobs
+nav_order: 4
+---
+
+# Skill and Jobs
+
+In this section, we would like to provide information on potential employees or new colleagues for our project if we are sponsored. The following table will present the detail information about these potential people: 
+
+|     Position            |     Skill Description                                                                                                                                                                                                                                                                                                                                                                                                                            |
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     Technical Leader    |     Communication: This person has to have a strong communication skill<br>Trust-Worthy: This person must be entrusted by all team members, building strong relationships with people<br>Team Building: Must establish and maintain efficient collaboration between colleagues, resolve conflicts and arguments, build a strong bond in the team<br>Time Management: Being able to prioritize tasks and distribute tasks to group members    |
+|     Business Analyst    |     Commercial Recognition: Constantly update news and information about<br>Communication: Being able to relay information and analyst results to other departments<br>Problem Solving: Being able to come up with solutions to business problems                                                                                                                                                                                             |
+|     Senior Developer    |     Teamwork: Being able to collaborate and guide junior and fresh developers in the team<br>Analytical Thinking: Being able to work independently and come up with solutions to hard problems<br>Trouble Shooting: Being able to solve hard problems and technical issues                                                                                                                                                                     |
+|     Graphical Design    |     Innovation: Being able to photoshop, learn new ideas, and apply for team’s product<br>Time Management: Being able to finish works before deadlines.<br>Accuracy: Being able to pay attention to details, especially all pixels                                                                                                                                                                                                            |
